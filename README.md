@@ -24,3 +24,5 @@ This app was created to improve *convenience*, *engagement*, and *planning* for 
 
 🛠️ Built for
 FNB App Academy Course – A project showcasing mobile development fundamentals HTML AND CSS.<br>
+
+AUTHOR:NETHENGWE STEPHANUS MALILELE
